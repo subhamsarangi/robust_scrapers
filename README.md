@@ -1,5 +1,4 @@
-## Robustness Overview (Generalized Description)
-
+## Overview
 ---
 
 ### **1. Multi-Strategy Field Extraction Pipeline**
